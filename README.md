@@ -16,17 +16,17 @@
 
 ### 💡 Featured Projects
 
+- [🧠 Memory Game (Next.js, TypeScript, Tailwind)](https://github.com/kaamiik/fm-memory-game-using-next-ts-tailwind)  
+  <sub>Sharpen your memory with this fun and challenging game built in Next.js and styled with Tailwind.</sub>
+
+- [🌎 Rest Countries API (Next.js, TypeScript)](https://github.com/kaamiik/fm-rest-countries-api-using-next-ts-tailwind)  
+  <sub>Discover and filter countries via REST API, with a smooth Next.js/TypeScript experience.</sub>
+
 - [🛒 Product List Cart (React, Tailwind, TypeScript)](https://github.com/kaamiik/fm-Product-List-with-Cart-using-react-tailwind-typescript)  
   <sub>TypeScript-powered shopping cart with a clean, responsive UI and robust logic.</sub>
 
 - [🏦 Mortgage Repayment Calculator (React, Tailwind, TypeScript, ZOD)](https://github.com/kaamiik/fm-Mortgage-Repayment-Calculator-using-React-Tailwind-TypeScript)  
   <sub>Mortgage calculator featuring real-time form validation using ZOD and stylish Tailwind design.</sub>
-
-- [🌎 Rest Countries API (Next.js, TypeScript)](https://github.com/kaamiik/fm-rest-countries-api-using-next-ts-tailwind)  
-  <sub>Discover and filter countries via REST API, with a smooth Next.js/TypeScript experience.</sub>
-
-- [🧠 Memory Game (Next.js, TypeScript, Tailwind)](https://github.com/kaamiik/fm-memory-game-using-next-ts-tailwind)  
-  <sub>Sharpen your memory with this fun and challenging game built in Next.js and styled with Tailwind.</sub>
 
 ---
 
