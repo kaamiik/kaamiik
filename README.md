@@ -1,31 +1,32 @@
-<h1 align="center">Hi there 👋, I'm Kamran (kaamiik)</h1>
+<h1 align="center">Hi 👋, I'm Kamran (kaamiik)</h1>
 <p align="center">
-  <em>Front-End Developer | Lifelong Learner | Tech Enthusiast</em>
+  <em>Front-End Developer • Lifelong Learner • Tech & UI Enthusiast</em>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 👨‍💻 Front-End Developer passionate about building modern, accessible, and performant web applications.
-- 🔥 Skilled in: **HTML, CSS, Sass/SCSS, TailwindCSS, JavaScript, React, Next.js, TypeScript, Accessibility, Git**
-- 🎯 Currently focusing on learning **testing**, exploring new frameworks like **Vue**, and practicing best practices in modern frontend development.
+- 💻 I’m a Front-End Developer passionate about building fast, accessible, and visually engaging web apps.
+- 🛠️ Main stack: **HTML, CSS, Sass/SCSS, TailwindCSS, JavaScript, React, Next.js, TypeScript, Accessibility, Git**
+- 🌱 Currently learning: **Testing**, exploring **Vue.js**, and leveling up my frontend skills.
+- 📚 I love best practices, clean code, and modern UI/UX.
 
 ---
 
 ### 💡 Featured Projects
 
 - [🛒 Product List Cart (React, Tailwind, TypeScript)](https://github.com/kaamiik/fm-Product-List-with-Cart-using-react-tailwind-typescript)  
-  <sub>Interactive shopping cart built with robust TypeScript types and clean UI using TailwindCSS.</sub>
+  <sub>TypeScript-powered shopping cart with a clean, responsive UI and robust logic.</sub>
 
 - [🏦 Mortgage Repayment Calculator (React, Tailwind, TypeScript, ZOD)](https://github.com/kaamiik/fm-Mortgage-Repayment-Calculator-using-React-Tailwind-TypeScript)  
-  <sub>Calculate mortgage repayments with real-time validation powered by ZOD and a modern, responsive interface.</sub>
+  <sub>Mortgage calculator featuring real-time form validation using ZOD and stylish Tailwind design.</sub>
 
 - [🌎 Rest Countries API (Next.js, TypeScript)](https://github.com/kaamiik/fm-rest-countries-api-using-next-ts-tailwind)  
-  <sub>Explore countries, filter, and search using data fetched from the REST Countries API.</sub>
+  <sub>Discover and filter countries via REST API, with a smooth Next.js/TypeScript experience.</sub>
 
 - [🧠 Memory Game (Next.js, TypeScript, Tailwind)](https://github.com/kaamiik/fm-memory-game-using-next-ts-tailwind)  
-  <sub>A fun, challenging memory game to sharpen your mind, built with React hooks and styled with Tailwind.</sub>
+  <sub>Sharpen your memory with this fun and challenging game built in Next.js and styled with Tailwind.</sub>
 
 ---
 
@@ -43,30 +44,41 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaamiik&show_icons=true&theme=radical" alt="Kamran's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaamiik&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=kaamiik&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 📚 Currently Learning
 
-- 🧪 Testing (React Testing Library, Jest)
-- 🌱 Vue.js
+- 🧪 Testing (React Testing Library)
+- 🌱 Vue.js & new frontend frameworks
 - 🏗️ Advanced accessibility & UI/UX best practices
 
 ---
 
 ### 🎲 Fun Facts
 
-- 🏸 Love playing squash with friends
-- 📚 Enjoy reading books and exploring new ideas
-- 🎬 Big fan of movies and relaxing hangouts
+- 🏸 I love playing squash with friends.
+- 📚 I enjoy reading books and discovering new ideas.
+- 🎬 Big fan of movies and relaxing hangouts.
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect with Me
 
 [![X (Twitter)](https://img.shields.io/badge/-@kiaakamran-1DA1F2?style=flat&logo=twitter&logoColor=fff)](https://x.com/kiaakamran)
-
-[Frontend Mentor](https://www.frontendmentor.io/profile/kaamiik)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-kaamiik-3F54A3?style=flat&logo=frontendmentor&logoColor=fff)](https://www.frontendmentor.io/profile/kaamiik)  
+📧 **Email:** [kiani.km@gmail.com](mailto:kiani.km@gmail.com)
 
 ---
 
 <p align="center">
-  <em>Let’s connect and build something amazing together!</em>
+  <em>Let's connect and create something amazing together!</em>
 </p>
